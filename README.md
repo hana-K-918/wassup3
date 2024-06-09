@@ -1,8 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20Hana's%20Github!&fontSize=45)
-
-<div align="center">
-
+<div align="left">
+<img src="https://github.com/hana-K-918/wassup3/assets/170410998/5e38d923-eaa1-4744-80b0-3ba84af1ec4e" width="450px" height="300px"></img><br/>
 </div>
 
 
