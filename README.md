@@ -1,8 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20Hana's%20Github!&fontSize=45)
-<div align="left">
-<img src="https://github.com/hana-K-918/wassup3/assets/170410998/5e38d923-eaa1-4744-80b0-3ba84af1ec4e" width="450px" height="300px"></img><br/>
-</div>
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&width=500&section=header&text=Hana's%20Github!&fontSize=50&fontAlign=70&rotate=10&fontAlignY=25)
+
+
+<img src="https://github.com/hana-K-918/wassup3/assets/170410998/75fec122-c1f1-4447-9298-d3f83bd1b0f5" width="450px" height="300px"></img><br/>
 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+There+%F0%9F%91%8B%F0%9F%91%8B)](https://git.io/typing-svg)
@@ -10,7 +10,7 @@
 ##### :paw_prints: I like ... playing with doggy 
 ##### :tv: I'm interested in ... AI service planning in media field   
 
-<br/> <br/> <br/> <br/> <br/> 
+<br/> <br/>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Now+I+am+learning...+)](https://git.io/typing-svg)
 
