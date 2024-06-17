@@ -6,6 +6,22 @@ __pycache__/
 # C extensions
 *.so
 
+# virtual_documents
+.virtual_documents/
+
+# ipynb_checkpoints
+.ipynb_checkpoints/
+
+# dataset
+dataset/
+data/
+
+# sample
+sample/
+
+# output
+output/
+
 # Distribution / packaging
 .Python
 build/
