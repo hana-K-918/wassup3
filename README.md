@@ -9,7 +9,7 @@
 ##### :raising_hand_woman: My name is ... Hana 
 ##### :lips: I speak ... Korean & English
 ##### :heartpulse: I like ... playing with doggy & watching movies
-##### :tv: I'm interested in ... AI service planning in media field   
+##### :tv: I'm interested in ... AI service PM in media field   
 
 <br/> <br/>
 
